@@ -1,0 +1,13 @@
+train: C:\Users\Angela\Downloads\AIPD\yolov8_dataset\train\images
+val: C:\Users\Angela\Downloads\AIPD\yolov8_dataset\valid\images
+test: C:\Users\Angela\Downloads\AIPD\yolov8_dataset\test\images
+
+nc: 1
+names: ['Trash']
+
+roboflow:
+  workspace: ehhh-bdpgr
+  project: trash-detection-omjnz
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/ehhh-bdpgr/trash-detection-omjnz/dataset/1
